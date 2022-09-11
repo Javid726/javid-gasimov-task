@@ -1,0 +1,213 @@
+{
+  "sales": [
+    {
+      "id": "3861d90f-830f-404e-b453-8a5b00bc6c16",
+      "client_name": "Porter Harlowe",
+      "product_quantity": 5,
+      "total_amount": 1706.42,
+      "status": "rejected",
+      "action": "..."
+    },
+    {
+      "id": "1ee3fa20-e872-4a6d-a5c6-e869faf54de2",
+      "client_name": "Alvan Dealy",
+      "product_quantity": 2,
+      "total_amount": 667.95,
+      "status": "pending",
+      "action": "..."
+    },
+    {
+      "id": "614d63ee-dd83-423f-be0d-c2ff5838f6ce",
+      "client_name": "Grace Lomond",
+      "product_quantity": 3,
+      "total_amount": 174.35,
+      "status": "approved",
+      "action": "..."
+    },
+    {
+      "id": "3eb95c90-cd51-4dd3-ae14-ce226054326d",
+      "client_name": "Verna Kinnach",
+      "product_quantity": 9,
+      "total_amount": 1155.68,
+      "status": "pending",
+      "action": "..."
+    },
+    {
+      "id": "5507340a-5a74-4f7e-8378-701065d93967",
+      "client_name": "Anthony McKenna",
+      "product_quantity": 4,
+      "total_amount": 1508.06,
+      "status": "pending",
+      "action": "..."
+    },
+    {
+      "id": "e5e25ada-45b4-4a60-8a8c-8c448799b7c6",
+      "client_name": "Darius Allmann",
+      "product_quantity": 5,
+      "total_amount": 1490.22,
+      "status": "approved",
+      "action": "..."
+    },
+    {
+      "id": "fa4ec0ef-f84e-46e4-8ff8-6f2502765320",
+      "client_name": "Aurelie Carbin",
+      "product_quantity": 6,
+      "total_amount": 133.86,
+      "status": "approved",
+      "action": "..."
+    },
+    {
+      "id": "4014a05f-cdfb-4de6-a677-b3f65698dcff",
+      "client_name": "Myrta Curror",
+      "product_quantity": 8,
+      "total_amount": 1137.65,
+      "status": "pending",
+      "action": "..."
+    },
+    {
+      "id": "7a1ec9d5-b578-445e-a906-863118b2a6ac",
+      "client_name": "Beatriz Myall",
+      "product_quantity": 3,
+      "total_amount": 1547.2,
+      "status": "rejected",
+      "action": "..."
+    },
+    {
+      "id": "39e1d4fb-cecf-4ac9-aefd-ba146868e2e9",
+      "client_name": "Francene Wyard",
+      "product_quantity": 10,
+      "total_amount": 768.8,
+      "status": "approved",
+      "action": "..."
+    },
+    {
+      "id": "c1abb4ce-5270-4e4c-8e17-675166f5745f",
+      "client_name": "Ilyssa Breach",
+      "product_quantity": 6,
+      "total_amount": 1067.71,
+      "status": "rejected",
+      "action": "..."
+    },
+    {
+      "id": "90f5569c-f727-415f-80e1-8ceeb7680f34",
+      "client_name": "Anjanette Faircliff",
+      "product_quantity": 3,
+      "total_amount": 345.11,
+      "status": "rejected",
+      "action": "..."
+    },
+    {
+      "id": "57c46a63-22b4-41c6-a4f6-fb2f0b2fa622",
+      "client_name": "Lodovico Holde",
+      "product_quantity": 7,
+      "total_amount": 1168.81,
+      "status": "rejected",
+      "action": "..."
+    },
+    {
+      "id": "ab3f0f49-2663-4442-903e-b1ce59a77380",
+      "client_name": "Arnold Fettis",
+      "product_quantity": 9,
+      "total_amount": 1601.59,
+      "status": "pending",
+      "action": "..."
+    },
+    {
+      "id": "d749f6cf-6d30-41f5-9dfc-bfee1a923553",
+      "client_name": "Peterus Marsh",
+      "product_quantity": 10,
+      "total_amount": 702.16,
+      "status": "pending",
+      "action": "..."
+    },
+    {
+      "id": "aeb67974-2aca-426e-8d85-ba26684eba33",
+      "client_name": "Erena Mole",
+      "product_quantity": 10,
+      "total_amount": 1874.09,
+      "status": "approved",
+      "action": "..."
+    },
+    {
+      "id": "2d5913d7-fef5-43e9-83f5-7816a2ac830f",
+      "client_name": "Erhard Swinyard",
+      "product_quantity": 8,
+      "total_amount": 1346.05,
+      "status": "pending",
+      "action": "..."
+    },
+    {
+      "id": "1e23ebe9-2a8f-48d1-a688-aff21397c8e4",
+      "client_name": "Josie Farfalameev",
+      "product_quantity": 6,
+      "total_amount": 1513.97,
+      "status": "rejected",
+      "action": "..."
+    },
+    {
+      "id": "a418908e-8b68-4eb4-9430-7beb9fd84a3b",
+      "client_name": "Karalynn Bellefant",
+      "product_quantity": 9,
+      "total_amount": 1598.01,
+      "status": "approved",
+      "action": "..."
+    },
+    {
+      "id": "41ab3aaf-57ac-4292-949b-4a1e66cc80b4",
+      "client_name": "Edeline Sabine",
+      "product_quantity": 10,
+      "total_amount": 515.83,
+      "status": "approved",
+      "action": "..."
+    },
+    {
+      "id": "a7eb41e7-cd26-48ac-861d-ee457030cbba",
+      "client_name": "Brnaby Olman",
+      "product_quantity": 3,
+      "total_amount": 1337.02,
+      "status": "approved",
+      "action": "..."
+    },
+    {
+      "id": "a1a2c9c0-09b4-4c11-af04-e72596fb473a",
+      "client_name": "Steward Eadon",
+      "product_quantity": 8,
+      "total_amount": 1560.26,
+      "status": "pending",
+      "action": "..."
+    }
+  
+  ],
+  "products": [
+    {
+      "id": 0,
+      "product_name": "Düyü",
+      "product_quantity": 10,
+      "product_price": 3.5
+    },
+    {
+      "id": 1,
+      "product_name": "Salmon balıq",
+      "product_quantity": 12,
+      "product_price": 3.5
+    },
+    {
+      "id": 2,
+      "product_name": "Ariel",
+      "product_quantity": 12,
+      "product_price": 5.2
+    },
+    {
+      "id": 3,
+      "product_name": "Qatıq",
+      "product_quantity": 17,
+      "product_price": 3
+    },
+    {
+      "product_id": 4,
+      "product_name": "Ketçup",
+      "product_quantity": 21,
+      "product_price": 2.4
+    }
+  ]
+}
